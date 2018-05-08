@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1525787891 source:c:\users\fabio\desktop\lp projeto\heranca\main.cpp
+	<iostream>
+	"produto.hpp"
+	"produto.cpp"
+	"produtoduravel.hpp"
+	"produtoduravel.cpp"
+	"produtonaoduravel.hpp"
+	"produtonaoduravel.cpp"
+	"carro.hpp"
+	"carro.cpp"
+	"livro.hpp"
+	"livro.cpp"
+	"celular.hpp"
+	"celular.cpp"
+	"pizza.hpp"
+	"pizza.cpp"
+	"refrigerante.hpp"
+	"refrigerante.cpp"
+	"chocolate.hpp"
+	"chocolate.cpp"
+	"descricao.hpp"
+	"descricao.cpp"
+	"deposito.hpp"
+	"deposito.cpp"
+	<stdlib.h>
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\produto.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\produto.cpp
+	<iostream>
+	"produto.hpp"
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\produtoduravel.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\produtoduravel.cpp
+	<iostream>
+	"produtoduravel.hpp"
+
+1525636923 c:\users\fabio\desktop\lp projeto\heranca\produtonaoduravel.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\produtonaoduravel.cpp
+	<iostream>
+	"produtonaoduravel.hpp"
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\carro.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\carro.cpp
+	<iostream>
+	"carro.hpp"
+
+1525636923 c:\users\fabio\desktop\lp projeto\heranca\livro.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\livro.cpp
+	<iostream>
+	"livro.hpp"
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\celular.hpp
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\celular.cpp
+	<iostream>
+	"celular.hpp"
+
+1525636924 c:\users\fabio\desktop\lp projeto\heranca\pizza.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\pizza.cpp
+	<iostream>
+	"pizza.hpp"
+
+1525636923 c:\users\fabio\desktop\lp projeto\heranca\refrigerante.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\refrigerante.cpp
+	<iostream>
+	"refrigerante.hpp"
+
+1525636923 c:\users\fabio\desktop\lp projeto\heranca\chocolate.hpp
+
+1525646045 c:\users\fabio\desktop\lp projeto\heranca\chocolate.cpp
+	<iostream>
+	"chocolate.hpp"
+
+1525641537 c:\users\fabio\desktop\lp projeto\heranca\descricao.hpp
+
+1525722879 c:\users\fabio\desktop\lp projeto\heranca\descricao.cpp
+	<iostream>
+	"descricao.hpp"
+	"carro.hpp"
+	"livro.hpp"
+	"celular.hpp"
+	"pizza.hpp"
+	"refrigerante.hpp"
+	"chocolate.hpp"
+	<string>
+
+1525738147 c:\users\fabio\desktop\lp projeto\heranca\deposito.hpp
+
+1525738147 c:\users\fabio\desktop\lp projeto\heranca\deposito.cpp
+	<iostream>
+	"deposito.hpp"
+
